@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-classes-kotlin.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-reports-tests.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-test-results.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task-build-tmp.main" target="11" />
+      <module name="Pawns-Only_Chess.Pawns-Only_Chess-task.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-When_expression-Direction.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-When_expression-Shape.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-When_expression-Strings_as_objects.main" target="11" />
+      <module name="Pawns-Only_Chess.Topics-When_expression-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
